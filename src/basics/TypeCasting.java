@@ -1,6 +1,6 @@
 package basics;
 
-public class TypeCasting {
+public class  TypeCasting {
     public static void main(String[] args) {
         //type casting
 //        int num = (int) (67.56f);
